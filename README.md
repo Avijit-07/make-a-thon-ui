@@ -4,6 +4,7 @@
 
 # UI Technology:
 - On the UI side, we're going to use Angular(latest) & Node.js as build tool.
+- We'll be using Angular Material for Layout purpose.
 
 ## Steps to Build Angular Project
 - TBD
