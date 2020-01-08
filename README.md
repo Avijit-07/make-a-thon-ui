@@ -1,11 +1,9 @@
 ## Green Makeathon
-- For now I'm commiting my changes in Bitbucket repo (link below). Once it'll be in stable state I'll migrate to Github.
-
-https://bitbucket.org/makeathon_marinelife/make-a-thon-ui/src
+- Many of the marine wildlife species that are protected under the wildlife protection act cannot be readily identified by the forest staff. Such an application can help as useful tool in crime control. 
+ These protected marine species get caught accidently in fishing nets. Fishermen have to cut nets to release the protected / endangered species. Mangrove foundation has a scheme to compensate the fishermen for loss of their nets. A mobile app to lodge their claims, verify the genuineness of the claim and provide status would really help.
 
 # UI Technology:
 - On the UI side, we're going to use Angular(latest) & Node.js as build tool.
-- We'll be using Angular Material for Layout purpose.
 
 ## Steps to Build Angular Project
 - TBD
