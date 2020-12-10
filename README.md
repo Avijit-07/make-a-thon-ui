@@ -1,7 +1,3 @@
-![Badge](https://github.com/Avijit-07/make-a-thon-ui/workflows/.github/workflows/pipeline.yml/badge.svg)
-
-![Make A Thon](https://github.com/Avijit-07/make-a-thon-ui/workflows/.github/workflows/pipeline.yml/badge.svg)
-
 
 ## Green Makeathon
 - Many of the marine wildlife species that are protected under the wildlife protection act cannot be readily identified by the forest staff. Such an application can help as useful tool in crime control. 
